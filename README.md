@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HakanAkduman
 - 📚 I'm student at Dokuz Eylül University and my major is Computer Engineering
 - 👀 I’m interested in watching TV series and coding
-- 🌱 I’m currently learning C# and python
+- 🌱 I’m currently learning Java, Kotlin
 - 📫 You can reach me from my mail adress hakanakduman2002@gmail.com
 
 <!---
