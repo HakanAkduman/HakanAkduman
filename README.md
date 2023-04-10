@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HakanAkduman
+- 👋 Hi, I’m @hakanAkduman
 - 📚 I'm student at Dokuz Eylül University and my major is Computer Engineering
 - 👀 I’m interested in watching TV series and coding
 - 🌱 I’m currently learning Java, Kotlin
