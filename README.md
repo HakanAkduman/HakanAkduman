@@ -16,5 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hakanAkduman&icon=3&color=1)](https://visitcount.itsvg.in)
+
 
